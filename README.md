@@ -1,3 +1,4 @@
+ ## A single time series analysis
 The aim of the analysis is to examine the seasonality and trend among people visiting Australia in the period from 1985 to 2005 based on monthly data.
 The analysis aims to identify patterns and changes in the number of short-term overseas visitors to Australia over these 21 years.
 
